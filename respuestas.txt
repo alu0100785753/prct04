@@ -1,1 +1,2 @@
 27 - RVM es un gestor de versiones de ruby.
+34 - La diferencia es que si ejecutamos el interprete, al ejecutar el comando no sale del interprete, mientras que con el fichero sí.
